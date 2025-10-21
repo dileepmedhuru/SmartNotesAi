@@ -15,8 +15,8 @@ smartnotesAI/
 │   ├── index.html              # Main application page
 │   ├── login.html              # Login page
 │   ├── register.html           # Registration page
-│   ├── history.html            # User history page (NEW)
-│   └── admin.html              # Admin dashboard (NEW)
+│   ├── history.html            # User history page
+│   └── admin.html              # Admin dashboard 
 ├── app.py                      # Main Flask application
 ├── models.py                   # Database models
 ├── summarizer.py               # AI summarization logic
